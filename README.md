@@ -1,1 +1,1 @@
-# 1024-bit-Arithmetic
+I Have implemented 1024-bit arithmetic operations namely Addition, Subtraction and Multiplication with 100% space efficiency by using unsigned long long int array. Since Unsigned long long int is 64 bit thus I used array of size 16, nothing more than that, thus achieved such space efficiency. 
